@@ -12,21 +12,21 @@ Make sure you have Node.js installed on your machine. You can download it [here]
 
 1. Clone this repository:
 
-    bash
+    ```bash
     git clone https://github.com/supekarsuraj/Resotech_Solution_Assignment.git
-    
+    ```
 
 2. Navigate to the project directory:
 
-    bash
+    ```bash
     cd frontend
-    
+    ```
 
 3. Install dependencies:
 
-    bash
+    ```bash
     npm install
-    
+    ```
 
 ## Usage
 
